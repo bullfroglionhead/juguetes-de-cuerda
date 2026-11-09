@@ -1,0 +1,16 @@
+{
+  "name": "Juguetes de cuerda",
+  "short_name": "Juguetes",
+  "description": "Defiende la fortaleza de un ejército de juguetes de cuerda.",
+  "start_url": "./?theme=juguetes",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#2a1c10",
+  "theme_color": "#2a1c10",
+  "icons": [
+    { "src": "themes/juguetes/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "themes/juguetes/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
